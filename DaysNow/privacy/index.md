@@ -8,7 +8,7 @@ permalink: /DaysNow/privacy/
 
 # DaysNow Privacy Policy
 
-**Last updated: 24 September 2026**
+**Last updated: 6 October 2026**
 
 ## Information collected by the developer
 
@@ -23,6 +23,8 @@ DaysNow stores countdowns locally on your device.
 If iCloud access is enabled and available, DaysNow can use your private iCloud storage to keep countdowns synchronised across supported Apple devices.
 
 Private CloudKit data is managed by Apple and is not available to the developer through the CloudKit developer portal.
+
+The app and its widget read the same local App Group store on each device. The app manages CloudKit synchronisation; the widget does not use an independent countdown dataset or CloudKit connection. Widget refresh timing is controlled by Apple.
 
 ## Preferences
 
@@ -70,11 +72,17 @@ This Privacy Policy may be updated if DaysNow’s features or data practices cha
 
 The latest version will be available on this page.
 
+## Website and support correspondence
+
+These public pages are hosted by GitHub Pages. GitHub handles website requests under its own privacy practices. DaysNow does not add advertising or analytics to these pages.
+
+If you email support, the developer receives the message and contact information you choose to send. Do not include passwords, payment information, or private countdown content.
+
 ## Contact
 
 If you have questions about this Privacy Policy or DaysNow’s privacy practices, contact:
 
-**Email:** daysnowapp@outlook.com
+**Email:** [daysnowapp@outlook.com](mailto:daysnowapp@outlook.com)
 
 ---
 
